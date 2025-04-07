@@ -72,15 +72,15 @@ export const Footer = () => {
             <h3 className="text-lg font-semibold text-gray-900 dark:text-white mb-4">Contact Info</h3>
             <ul className="space-y-2 text-gray-600 dark:text-gray-400">
               <li>Prayagraj ,UP ,India</li>
-              <li> rk7518329420@gmail.com</li>
-              <li>+91  7518329420</li>
+              <li> singhmukesh41866@gmail.com</li>
+              <li>+91 7607966847</li>
             </ul>
           </div>
         </div>
 
         <div className="border-t border-gray-200 dark:border-gray-800 pt-8">
           <p className="text-center text-gray-600 dark:text-gray-400">
-           Rakesh Kushwaha © {currentYear} Portfolio. All rights reserved.
+           Mukesh Kushwaha © {currentYear} Portfolio. All rights reserved.
           </p>
         </div>
       </div>
