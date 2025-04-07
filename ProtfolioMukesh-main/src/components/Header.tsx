@@ -45,9 +45,9 @@ export const Header = () => {
             >
               {theme === 'dark' ? <Sun className="w-5 h-5" /> : <Moon className="w-5 h-5" />}
             </motion.button>
-            <SocialIcon icon={<Github />} href="https://github.com/RAKESHKUSHWAHA7518" />
-            <SocialIcon icon={<Linkedin />} href="https://www.linkedin.com/in/rakesh-kushwaha-666726212/" />
-            <SocialIcon icon={<Mail />} href="mailto:rk7518329420@gmail.com" />
+            <SocialIcon icon={<Github />} href="https://github.com/MUKESHKUSHWAHA41866" />
+            <SocialIcon icon={<Linkedin />} href="https://www.linkedin.com/in/mukesh-kushwaha-79b371227/" />
+            <SocialIcon icon={<Mail />} href="mailto:singhmukesh41866@gmail.com" />
           </div>
 
           <div className="md:hidden flex items-center">
